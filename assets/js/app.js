@@ -1,6 +1,6 @@
 'use strict';
 
-import { fetchData } from "./api";
+import { fetchData } from "./api.js";
 
 /**
  * @param {NodeList} $elements NodeList
